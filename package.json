@@ -63,7 +63,7 @@
     "@angular/material": "22.1.2",
     "@angular/platform-browser": "22.1.2",
     "@angular/platform-browser-dynamic": "22.1.2",
-    "@angular/router": "22.1.2",
+    "@angular/router": "22.2.3",
     "@angular/service-worker": "22.1.2",
     "@bull-board/api": "9.10.1",
     "@bull-board/express": "9.10.1",
